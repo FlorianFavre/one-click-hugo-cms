@@ -1,0 +1,3 @@
+[submodule "themes/planty"]
+	path = themes/planty
+	url = https://github.com/snipcart/stackbit-theme-planty
